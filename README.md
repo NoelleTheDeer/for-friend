@@ -14,8 +14,8 @@
 <details>
 <summary>  &nbsp;&nbsp;Graphics Credits</summary><br>
 ${\textsf{\color{#FFEEEC} pixelsource, aretoilaisse, astrivsion, adequately, parapawzz, and digichu on tumblr}}$
-${\textsf{\color{#FFEEEC} Papicowa_tin on X}}$
-${\textsf{\color{#FFEEEC} JAY_WALKER on tiktok!}}$
+${\textsf{\color{#FFEEEC} Papicowatin on X}}$
+${\textsf{\color{#FFEEEC} JAYWALKER on tiktok!}}$
 </details>
 
 <p align="center">
