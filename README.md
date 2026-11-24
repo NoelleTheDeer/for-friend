@@ -23,23 +23,23 @@ ${\textsf{\color{#FFEEEC} JAYWALKER on tiktok!}}$
 </p>
 
 <p align="left">
-${\textsf{\color{##FF6663} 20 years old! Call me Isaac, Zoey, or Crystal!}}$
+${\textsf{\color{#FF6663} 20 years old! Call me Isaac, Zoey, or Crystal!}}$
 </p>
 <p align="left">
-${\textsf{\color{##FEB144} She/her and he/him preferred!}}$
+${\textsf{\color{#FEB144} She/her and he/him preferred!}}$
 </p>
 <p align="left">
-${\textsf{\color{##FDFD97} Birthday is February 3rd!}}$
+${\textsf{\color{#FDFD97} Birthday is February 3rd!}}$
 </p>
 
 <p align="right">
-${\textsf{\color{##9EE09E} Current hyperfixations are Dandys world and Genshin!}}$
+${\textsf{\color{#9EE09E} Current hyperfixations are Dandys world and Genshin!}}$
 </p>
 <p align="right">
-${\textsf{\color{##9EC1CF} I currently also like Danganronpa, MM2, HSR, and ZZZ!}}$
+${\textsf{\color{#9EC1CF} I currently also like Danganronpa, MM2, HSR, and ZZZ!}}$
 </p>
 <p align="right">
-${\textsf{\color{##CC99C9} As well as Mongil Stardive. VRCHAT, and Hi3rd!}}$
+${\textsf{\color{#CC99C9} As well as Mongil Stardive. VRCHAT, and Hi3rd!}}$
 </p>
 
 <p align="center">
